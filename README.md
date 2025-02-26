@@ -124,8 +124,5 @@ streamlit run streamlit.py
 - Multilingual support
 - Telemedicine appointment scheduling
 
-## License
-[MIT License](LICENSE)
-
 ## Disclaimer
 MediCareAI is designed as an aid to healthcare and should not replace professional medical advice. Always consult with a healthcare professional for medical concerns.
