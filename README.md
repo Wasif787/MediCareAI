@@ -59,7 +59,7 @@ MediCareAI is an intelligent healthcare platform that combines AI-powered diagno
 ### Environment Setup
 1. Clone the repository
 ```bash
-git clone https://github.com/wasif787/medicare-ai.git
+git clone https://github.com/Wasif787/medicare-ai.git
 cd medicare-ai
 ```
 
